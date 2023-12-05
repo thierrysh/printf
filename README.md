@@ -1,4 +1,5 @@
-0x11. C - printf
-
-Team project with
-SHINGIRO Thiery  and TUYISHIMIRE Clement
+working on printf group project on alx africa
+this is me the first partner at:
+-----------------------------------------------------------
+joyeuxclement87
+-----------------------------------------------------------
